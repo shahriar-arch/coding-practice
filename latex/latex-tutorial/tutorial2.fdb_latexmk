@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665817268 "c:/Users/shahr/Documents/git/my-coding-journey/latex/latex-tutorial/main.tex" "main.pdf" "main" 1665817268
+["pdflatex"] 1665861490 "c:/Users/shahr/Documents/git/my-coding-journey/latex/latex-tutorial/tutorial2.tex" "tutorial2.pdf" "tutorial2" 1665861491
   "C:/Users/shahr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1665767429 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/shahr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1665767434 10788011 520f7355db04279e4cab4189b05025f4 ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -12,14 +12,16 @@
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1657041432 20144 7555b7429d80bef287ebb82117811acc ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1657041432 8464 1f4991f9def04be6719b2af330c83aac ""
   "C:/Users/shahr/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1664388628 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
-  "c:/Users/shahr/Documents/git/my-coding-journey/latex/latex-tutorial/main.tex" 1665817267 303 450764c24cc81bf636789ae42933c42f ""
-  "main.aux" 1665817268 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/shahr/Documents/git/my-coding-journey/latex/latex-tutorial/tutorial2.tex" 1665861490 154 116c8a0dbcec71f60b48656202392dac ""
+  "tutorial2.aux" 1665861491 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
+  "tutorial2.aux"
+  "tutorial2.log"
+  "tutorial2.pdf"
