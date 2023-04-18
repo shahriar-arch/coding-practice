@@ -1,0 +1,5 @@
+1. official python tutorial - docs.python.org
+2. Python Cookbook by David Beazley 
+3. Fluent Python b y Luciano Ramalho
+4. Effective Python by Brett Slatkin 
+
