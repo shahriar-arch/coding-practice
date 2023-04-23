@@ -1,0 +1,14 @@
+ctrl - p or up-arrow   --->    Search backward in command history for commands starting with currently entered text 
+ctrl - n or down-arrow --->    Search forward in command history for commands starting with currently entered text
+ctrl - r               --->    Readline style reverse history Search (partial matching)
+ctrl - shift- v        --->    Paste text from clipboard
+ctrl - c               --->    Interrupt currently executing code
+ctrl - a               --->    Move cursor to beginning of line
+ctrl - e               --->    Move cursor to end of line
+ctrl - k               --->    Delete text from cursor until end of line
+ctrl - u               --->    Discard all text on current line 
+ctrl - f               --->    Move cursor forward one character
+ctrl - b               --->    Move cursor back one character 
+ctrl - l               --->    Clear screen
+
+
