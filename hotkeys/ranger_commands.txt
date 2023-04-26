@@ -1,0 +1,23 @@
+Keybindsings 
+j: Move down
+k: Move up
+h: Move to parent directory
+gg: Go to the top of the list
+i: Preview file
+r: Open file
+zh: View hidden files
+cw: Rename current file
+yy: Yank (copy) file
+dd: Cut file
+pp: Paste file
+u: Undo
+z: Change settings
+dD: Delete file
+
+
+console commands:
+:openwith: Open a select file with a program of your choice
+:touch FILENAME: Create a file
+:mkdir FILENAME: Create a directory
+:shell <command>: Run a command in shell
+:delete: Delete files
