@@ -27,6 +27,10 @@ syntax on
 " Add numbers to the file.
 set number
 
+" Turn hybrid line numbers on 
+set number relativenumber
+set nu rnu 
+
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
 
@@ -88,11 +92,34 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 " PLUGINS ---------------------------------------------------------------- {{{
 
+" To install plugins first install the plugin software by running the
+" following command- 
+"
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+"    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+
 call plug#begin('~/.vim/plugged')
 
   Plug 'dense-analysis/ale'
 
   Plug 'preservim/nerdtree'
+
+  "Additional Plugins
+  Plug 'tpope/vim-sensible'
+  Plug 'itchyny/lightline.vim'
+  Plug 'joshdick/onedark.vim'
+  Plug 'ap/vim-buftabline'
+  Plug 'airblade/vim-gitgutter'
+  Plug 'jistr/vim-nerdtree-tabs'
+  Plug 'Xuyuanp/nerdtree-git-plugin'
+  Plug 'jiangmiao/auto-pairs'
+  Plug 'majutsushi/tagbar'
+  Plug 'vim-scripts/indentpython.vim'
+  Plug 'lepture/vim-jinja'
+  Plug 'pangloss/vim-javascript'
+  Plug 'alvan/vim-closetag'
+  Plug 'maxmellon/vim-jsx-pretty'
 
 call plug#end()
 
