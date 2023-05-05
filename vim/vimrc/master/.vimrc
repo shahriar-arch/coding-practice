@@ -94,6 +94,7 @@ call plug#begin('~/.vim/plugged')
 
   Plug 'preservim/nerdtree'
 
+
 call plug#end()
 
 " }}}
@@ -277,6 +278,7 @@ Plug 'lepture/vim-jinja'
 Plug 'pangloss/vim-javascript'
 Plug 'alvan/vim-closetag'
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'lervag/vimtex'
 call plug#end()
 
 filetype plugin indent on
@@ -467,7 +469,7 @@ inoremap <special> <expr> <Esc>[200~ XTermPasteBegin()
 
 " LaTeX Suit ------------------------------------------------------------ {{{
 
-
-
+filetype plugin indent on
+syntax enable
 
 " }}}
