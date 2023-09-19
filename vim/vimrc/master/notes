@@ -1,0 +1,29 @@
+First create the following directory structure in your home directory.
+mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+
+Create a .vimrc file in your home directory by 
+touch ~/.vimrc
+
+now copy and paste the lines from master file. 
+save the file and close. 
+
+To install the vim-plug plugin, run this command:
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+Now type :PlugInstall to download and install the two plugins.
+
+keybindings
+zo to open a single fold under the cursor.
+zc to close the fold under the cursor.
+zR to open all folds.
+zM to close all folds.
+
+vimtex keybindings:
+\ll to start/stop the compiling 
+\lk to stop the compiling 
+\lc to clear auxilary files 
+
+referrence
+https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
+https://github.com/lervag/vimtex
