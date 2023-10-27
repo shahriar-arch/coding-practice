@@ -1,0 +1,14 @@
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin main 
+git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git)
+
+FIX: "Support for password authentication was removed. Please use a personal access token instead."
+
+git clone https://tokenhere@github.com/user_name/repo_name.git
